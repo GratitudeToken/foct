@@ -1,2 +1,2 @@
-# foct
+# FOCT
 Flavors Of Corporate Takeover
