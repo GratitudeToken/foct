@@ -1,5 +1,5 @@
 # FOCT
-Flavors Of Corporate Takeover
+**Flavors Of Corporate Takeover**
 
 DEMO of pure CSS Blend Modes just like in Photoshop but with only CSS, no JS.
 
