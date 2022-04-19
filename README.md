@@ -21,7 +21,7 @@ Blend Modes Demonstrated:
 - Luminosity
 
 
-It gets interesting when you apply moving CSS gradient backgrounds to different parts of the UI, like for buttons, icons, text, backgrounds or entire viewport.
+It gets interesting when you apply moving CSS gradient backgrounds to different parts of the UI, like for buttons, icons, text, backgrounds or to the entire viewport.
 
 I noticed some really cool visual effects in my experimentation.
 
